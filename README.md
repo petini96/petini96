@@ -29,8 +29,7 @@
 
 ## 📊 Statistics
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=petini96&layout=compact&theme=blue-green)]()
-
+[![Pa](https://github-readme-stats.vercel.app/api?username=petini96&theme=blue-green)]()
 
 ### The end is here. First, some interesting things:
 - I want to contribute to open source projects
